@@ -9,7 +9,7 @@ const Hero: FC = () => {
         <div className='Hero'>
             <div className="Hero__info">
                 <h1>
-                Превращаем <span>вашу идею</span>  в виртуальную реальность с <span>Sk1wzDev! </span> <br />
+                Превращаем <span>вашу идею</span>  в виртуальную реальность с <span>React-Studio! </span> <br />
                 Мы - <span>ваш партнер</span> в создании <span>уникальных онлайн решений</span> для вашего бизнеса!
                 </h1>
 
